@@ -2,6 +2,11 @@
 A small tool to log your application inside your application with a floating UI component
 
 
+
+https://gfycat.com/distantbrightandeancondor
+
+
+
 ### Usage:
 
 Start the logging service:
