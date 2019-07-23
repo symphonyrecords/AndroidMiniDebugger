@@ -3,9 +3,10 @@ A small tool to log your application inside your application with a floating UI 
 
 
 
-<iframe width="360" height="640" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://gfycat.com/distantbrightandeancondor" style="border: 1px solid black"></iframe>
+<iframe width="360" height="640" frameborder="0" src="https://gfycat.com/distantbrightandeancondor"></iframe>
 
 
+<img src="https://gfycat.com/distantbrightandeancondor"/>
 
 
 
