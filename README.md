@@ -3,11 +3,7 @@ A small tool to log your application inside your application with a floating UI 
 
 
 
-<iframe width="360" height="640" frameborder="0" src="https://gfycat.com/distantbrightandeancondor"></iframe>
-
-
-<img src="https://gfycat.com/distantbrightandeancondor"/>
-
+![This is how it looks](https://gfycat.com/distantbrightandeancondor)
 
 
 ### Usage:
