@@ -3,8 +3,8 @@ A small tool to log your application inside your application with a floating UI 
 
 
 
+![This is how it looks](https://media.giphy.com/media/H42CT3FIPcC26Pk4ud/giphy.gif)
 
-![This is how it looks](https://giant.gfycat.com/DistantBrightAndeancondor.gif)
 
 
 ### Usage:
