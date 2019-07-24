@@ -3,7 +3,7 @@ A small tool to log your application inside your application with a floating UI 
 
 
 
-![This is how it looks](https://github.com/symphonyrecords/Data/raw/master/Debugger%20Gif.gif)
+![This is how it looks](https://github.com/symphonyrecords/Data/blob/master/DebuggerGifSmaller.gif)
 
 
 
