@@ -3,7 +3,8 @@ A small tool to log your application inside your application with a floating UI 
 
 
 
-![This is how it looks](https://github.com/symphonyrecords/Data/blob/master/DebuggerGifSmaller.gif)
+
+![Preview](https://github.com/symphonyrecords/Data/blob/master/AndroidMiniDebuggerGif.gif)
 
 
 
