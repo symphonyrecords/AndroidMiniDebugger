@@ -3,7 +3,7 @@ A small tool to log your application inside your application with a floating UI 
 
 
 
-![This is how it looks](https://thumbs.gfycat.com/ImmediateArcticAmericanmarten-small.gif)
+![This is how it looks](https://thumbs.gfycat.com/ImmediateArcticAmericanmarten-size_restricted.gif)
 
 
 
