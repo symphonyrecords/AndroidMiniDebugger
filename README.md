@@ -1,4 +1,6 @@
-# AndroidMiniDebugger
+
+
+# AndroidMiniDebugger [![](https://jitpack.io/v/symphonyrecords/AndroiMiniDebugger.svg)](https://jitpack.io/#symphonyrecords/AndroiMiniDebugger)
 A small tool to log your application inside your application with a floating UI component
 
 
@@ -37,6 +39,6 @@ Add it in your root build.gradle:
 Add the dependency
 
 	dependencies {
-	        implementation 'com.github.symphonyrecords:AndroiMiniDebugger:0.1.1'
+		implementation 'com.github.symphonyrecords:AndroiMiniDebugger:1.1.1'
 	}
     
