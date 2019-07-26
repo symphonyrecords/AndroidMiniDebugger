@@ -16,7 +16,7 @@ Start the logging service:
     this.stopService(intent);
     ContextCompat.startForegroundService(this, intent);
     
-<b>Note:</b> don't forget to grant "Draw over other apps" permission. (look into sample project <b>"MainActivity.java"</b>)
+<b>Note:</b> don't forget to grant <b>"Draw over other apps"</b> permission.
    
    
 Finally use <b>SRLog.java</b> instead of android Log class:
