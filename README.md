@@ -22,3 +22,21 @@ Start the logging service:
 Finally use <b>SRLog.java</b> instead of android Log class:
    
     SRLog.d(TAG, "Message");
+
+
+# Download
+
+Add it in your root build.gradle:
+
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+Add the dependency
+
+	dependencies {
+	        implementation 'com.github.symphonyrecords:AndroiMiniDebugger:0.1.1'
+	}
+    
