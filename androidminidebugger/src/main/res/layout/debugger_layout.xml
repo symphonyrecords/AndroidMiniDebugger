@@ -60,31 +60,25 @@
 
     </LinearLayout>
 
-    <RelativeLayout
-        android:id="@+id/touch_disable_container"
+
+    <ScrollView
+        android:id="@+id/scroll_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/dragPanel"
-        android:orientation="horizontal">
+        android:background="@color/debug_darkDebugBg">
 
-        <androidx.core.widget.NestedScrollView
-            android:id="@+id/scroll_view"
+        <TextView
+            android:id="@+id/message_output"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/debug_darkDebugBg">
+            android:layout_gravity="start"
+            android:orientation="vertical"
+            android:paddingLeft="12dp"
+            android:paddingTop="12dp"
+            android:paddingRight="12dp"
+            android:paddingBottom="12dp" />
+    </ScrollView>
 
-            <TextView
-                android:id="@+id/message_output"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_gravity="start"
-                android:orientation="vertical"
-                android:paddingLeft="12dp"
-                android:paddingTop="12dp"
-                android:paddingRight="12dp"
-                android:paddingBottom="12dp" />
-        </androidx.core.widget.NestedScrollView>
-
-    </RelativeLayout>
 
 </RelativeLayout>

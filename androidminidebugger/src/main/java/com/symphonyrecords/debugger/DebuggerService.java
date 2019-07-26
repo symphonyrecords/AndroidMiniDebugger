@@ -26,7 +26,6 @@ import android.widget.TextView;
 
 import androidx.appcompat.widget.AppCompatImageView;
 import androidx.core.content.ContextCompat;
-import androidx.core.widget.NestedScrollView;
 
 import java.lang.ref.WeakReference;
 
@@ -40,7 +39,7 @@ public class DebuggerService extends Service {
     RelativeLayout root_view;
     private View mView;
     private TextView textView;
-    private NestedScrollView scrollView;
+    private ScrollView scrollView;
     private AppCompatImageView btnResize;
     private AppCompatImageView btnClose;
     private AppCompatImageView btnReset;
@@ -173,11 +172,6 @@ public class DebuggerService extends Service {
 //                mView.invalidate();
                 return false;
             }
-        });
-
-//        mView.findViewById(R.id.dragPanel).bringToFront();
-        mView.findViewById(R.id.touch_disable_container).setOnClickListener(view -> {
-            // This is only for preventing to log screen move. only debugger header should be dragged
         });
 
 
