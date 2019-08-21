@@ -5,6 +5,7 @@
 
 /build
 /captures
+
 #Gradle
 .gradle
 build
